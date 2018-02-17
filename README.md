@@ -1,5 +1,6 @@
 # IC_counter
 Information Criterions Counter Example
+
 ---
 
 This repository contains counterexamples for not using the information criteria.
@@ -12,3 +13,6 @@ right model by using only these criteria produces many errors not only at the fi
 
 For example in the notebook given we cannot use an `ARIMA(2,1,2)` because for MA term equal to 2
 it results in a numerically anstable approximation.
+
+---
+Many of the data and ideas are taken from [here](http://www.jakob-aungiers.com/articles/a/Multidimensional-LSTM-Networks-to-Predict-Bitcoin-Price)
