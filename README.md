@@ -1,5 +1,5 @@
 # IC_counter
-Information Criterions Counter Example
+Information Criteria Counter Examples
 
 ---
 
